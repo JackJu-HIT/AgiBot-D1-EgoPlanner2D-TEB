@@ -16,8 +16,8 @@
 *   **计算平台**：算法运行于独立的上位机（如笔记本电脑，**x86_64** 架构）。
 *   **通信链路**：上位机通过局域网（UDP 协议）与智元四足机器人底层嵌入式系统通信。
 *   **核心模块依赖**：
-    *   **局部规划器：** [Ego-Planner-2D-ROS2](https://github.com/JackJu-HIT/Ego-Planner-2D-ROS2) —— 负责生成平滑且避障的轨迹。
-    *   **局部控制器：** [AgiBot_D1_Navigation_ROS2](https://github.com/JackJu-HIT/AgiBot_D1_Navigation_ROS2) —— 负责轨迹跟踪控制。
+    *   **局部规划器Ego-Planner-2D：** [Ego-Planner-2D-ROS2](https://github.com/JackJu-HIT/Ego-Planner-2D-ROS2) —— 负责生成平滑且避障的轨迹。
+    *   **局部控制器TEB：** [AgiBot_D1_Navigation_ROS2](https://github.com/JackJu-HIT/AgiBot_D1_Navigation_ROS2) —— 负责轨迹跟踪控制。
     *   **硬件通信层：** [AgiBot_D1_Controller_ROS2](https://github.com/JackJu-HIT/AgiBot_D1_Controller_ROS2) —— 驱动层，封装了与智元 SDK 的交互。
 
 ---
