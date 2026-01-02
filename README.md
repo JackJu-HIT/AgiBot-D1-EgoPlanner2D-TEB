@@ -111,7 +111,7 @@ ros2 run ego-planner motion_plan
 
 **🔍 机器人规划与控制研究所**
 
-[📄 点击此处阅读本项目相关的技术专栏文章](你的文章链接)
+[📄 点击此处阅读本项目相关的技术专栏文章](https://mp.weixin.qq.com/s/fBVtQuWLc2vMCbczovkCiw)
 
 ---
 *© 2026 JackJu-HIT. Licensed under the MIT License.*
